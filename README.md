@@ -7,10 +7,10 @@ DFS for maze generating and solving.
 * There are some graphical problems on macosx
 
  
-![Alt text](https://raw.githubusercontent.com/kemalbayindir/MazeUp/master/screenshots/s1.png?raw=true "First screen")
+<img src="https://raw.githubusercontent.com/kemalbayindir/MazeUp/master/screenshots/s1.png?raw=true" height="958px" width="716px">
 
-![Alt text](https://raw.githubusercontent.com/kemalbayindir/MazeUp/master/screenshots/s2.png?raw=true "Self solving screen")
+<img src="https://raw.githubusercontent.com/kemalbayindir/MazeUp/master/screenshots/s2.png?raw=true" height="958px" width="716px">
 
-![Alt text](https://raw.githubusercontent.com/kemalbayindir/MazeUp/master/screenshots/s3.png?raw=true "Path found screen")
+<img src="https://raw.githubusercontent.com/kemalbayindir/MazeUp/master/screenshots/s3.png?raw=true" height="958px" width="716px">
 
 
